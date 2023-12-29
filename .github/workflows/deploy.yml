@@ -34,4 +34,4 @@ jobs:
           token : ${{ secrets.umar }}
           branch: gh-pages 
           folder: build
-          repository-name: 'HardCore007/portfolio'
+          # repository-name: 'HardCore007/portfolio'
