@@ -31,7 +31,7 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          token : ${{ secrets.PROFILEO_TOKEN }}
+          token : ${{ secrets.umar }}
           branch: gh-pages 
           folder: build
           repository-name: 'hash3liZer/hash3liZer.github.io'
