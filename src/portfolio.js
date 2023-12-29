@@ -20,10 +20,10 @@ const illustration = {
 };
 
 const greeting = {
-  username: "hash3liZer",
-  title: "Hey 👋 Its Shameer Kashif",
+  username: "HardCore",
+  title: "Hey 👋 Its Umar Mushtaq",
   subTitle: emoji(
-    "🚀 A Passionate Programmer with the love of Cyber Security and Automation. I love to design and program things and then also discover flaws in them. {/**/}."
+    "🚀 Cybersecurity enthusiast Specialized in Web, Network, and Infrastructure Penetration Testing, Bug Bounty Hunter, and VAPT. {/**/}."
   ),
   resumeLink:
     "https://blog.shameerkashif.me/resume/", // Set to empty to hide the button
@@ -34,8 +34,8 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/hash3liZer",
-  linkedin: "https://www.linkedin.com/in/hash3lizer/",
-  gmail: "me@shameerkashif.me",
+  linkedin: "https://www.linkedin.com/in/daudkhan007/",
+  gmail: "me@umarmushtaq.me",
   gitlab: false,
   facebook: false,
   medium: "",
