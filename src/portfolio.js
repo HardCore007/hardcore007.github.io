@@ -33,13 +33,13 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/hash3liZer",
+  github: "https://github.com/HardCore007",
   linkedin: "https://www.linkedin.com/in/daudkhan007/",
-  gmail: "me@umarmushtaq.me",
+  gmail: "rockstar.khan2@gmail.com",
   gitlab: false,
   facebook: false,
-  medium: "",
-  instagram: "https://instagram.com/shameerkashif_",
+  medium: "https://medium.com/@UmarMushtaq",
+  instagram: "https://www.instagram.com/h4rdc0r7/",
   stackoverflow: "https://stackoverflow.com/users/8030629/shameer-kashif",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
@@ -50,14 +50,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "I love to code, build, drink, break, probably drink again and build it back again. Maybe the loop i am in love with. View my stack below: ",
+  subTitle: "I love to code, build, drink, break again, probably drink again and build it back again. Maybe the loop i am in love with. View my stack below: ",
   skills: [
     emoji(
-      "⚡ Deliver high-end quality solutions as per your requirements (API, Web, Desktop, Linux, Windows, Cyber Security, Cloud)"
+      "⚡ Deliver high-end quality solutions as per your requirements (Web, Desktop, Linux, Windows, Cyber Security, Cloud)"
     ),
     emoji("⚡ Deliver and manage cloud applications & services on AWS, Azure, GCP & DigitalOcean"),
     emoji(
-      "⚡ Deliver high-end automated solutions for your business needs (CI/CD, DevSecOps, Automation, Scripting, Scraping)"
+      "⚡ Deliver high-end automated solutions for your business needs (CI/CD, Automation, Scripting, Scraping)"
     )
   ],
 
