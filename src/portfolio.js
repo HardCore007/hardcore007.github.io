@@ -1,4 +1,4 @@
-/* Change this file to get your personal Portfolio */
+cal /* Change this file to get your personal Portfolio */
 
 // To change portfolio colors globally go to the  _globalColor.scss file
 
@@ -23,7 +23,7 @@ const greeting = {
   username: "HardCore",
   title: "Hey 👋 Its Umar Mushtaq",
   subTitle: emoji(
-    "🚀 Cybersecurity enthusiast Specialized in Web, Network, and Infrastructure Penetration Testing, Bug Bounty Hunter, and VAPT. {/*Certified Red Team Operator*/}."
+    "🚀 Cybersecurity enthusiast Specialized in Web, Network, and Infrastructure Penetration Testing, Ethical Hacker, and VAPT. {/*Certified Red Team Operator*/}."
   ),
   resumeLink:
     "https://blog.shameerkashif.me/resume/", // Set to empty to hide the button
