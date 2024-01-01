@@ -23,7 +23,7 @@ const greeting = {
   username: "HardCore",
   title: "Hey 👋 Its Umar Mushtaq",
   subTitle: emoji(
-    "🚀 Cybersecurity enthusiast Specialized in Web, Network, and Infrastructure Penetration Testing, Bug Bounty Hunter, and VAPT. {/**/}."
+    "🚀 Cybersecurity enthusiast Specialized in Web, Network, and Infrastructure Penetration Testing, Bug Bounty Hunter, and VAPT. {/*Certified Red Team Operator*/}."
   ),
   resumeLink:
     "https://blog.shameerkashif.me/resume/", // Set to empty to hide the button
